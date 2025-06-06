@@ -1,2 +1,2 @@
-# GitWorrkflow-Actions-GC
+# GitWorkflow-Actions-GC
 GitHub actions. Lab de Gerência de configuração. Atividade 1!
